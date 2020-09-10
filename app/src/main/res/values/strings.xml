@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BlockChain</string>
+    <string name="current_rate">current exchange rate: </string>
+</resources>
